@@ -1,0 +1,16 @@
+.svn
+*.o
+Makefile
+t/servroot/
+*~
+*.swp
+build
+work
+go
+genmobi.sh
+tags
+all
+releng
+GPATH
+GRTAGS
+GTAGS
